@@ -1,5 +1,5 @@
 package com.example.gd8_accelerometer_d_10554
-
+//guided accelerometer
 import android.graphics.Color
 import android.hardware.Sensor
 import android.hardware.SensorEvent
